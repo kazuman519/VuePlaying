@@ -1,0 +1,24 @@
+{
+  "name": "playing",
+  "version": "1.0.0",
+  "description": "hogehoge",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^1.0.25",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuman519/VuePlaying.git"
+  },
+  "author": "kazuman519",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuman519/VuePlaying/issues"
+  },
+  "homepage": "https://github.com/kazuman519/VuePlaying#readme"
+}
